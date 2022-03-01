@@ -4,7 +4,7 @@
 
 <h3>How to Use?</h3>
 
-- Visit the Site
+- Visit the Site Or Just Click On -> [HackerNames](https://secretsx.github.io/HackerNames)
 - Enter any name you want to convert, like `ANGEL`
 - Once entered hit generate and you will get your newly generated name
 
