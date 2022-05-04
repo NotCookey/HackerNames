@@ -13,5 +13,3 @@
 - Cause I was bored and maybe cause I really loved the fancy alphanumeric names `ANGEL`->`4N63L`
 
 <br>
-
-> <img src="https://images-ext-2.discordapp.net/external/xkx2jyHh-6u8tzQkCaWz-RuOIujCuB1zLNTuFaICDoQ/https/emoji.gg/assets/emoji/8895-kenahappy.png" width=30px> **Have Fun!**
